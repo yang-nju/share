@@ -1,0 +1,6 @@
+eclipse.preferences.version=1
+externalMigrateFromAuthorizationDatabase/isMigrated=true
+migrateFromAuthorizationDatabase/isMigrated=true
+repositories/105f9e474a2d00161bfcf75f912a7ec0=105f9e474a2d00161bfcf75f912a7ec0;https\://192.168.55.120/svn/crm_code/branches/dev/wmp;https\://192.168.55.120/svn/crm_code/branches/dev/wmp;branches;tags;trunk;true;a79321d6-7a9b-4464-ae2a-d7a11b46500c;https\://192.168.55.120/svn/crm_code;;false;;;0
+repositories/50fcc61e0a31001619fdf3832c87a7dc=50fcc61e0a31001619fdf3832c87a7dc;https\://192.168.55.120/svn/crm_code/branches/dev;https\://192.168.55.120/svn/crm_code/branches/dev;branches;tags;trunk;true;a79321d6-7a9b-4464-ae2a-d7a11b46500c;https\://192.168.55.120/svn/crm_code;;false;;;0
+synch_info/contigous=true
